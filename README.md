@@ -113,5 +113,5 @@ graph TD
 The Service Booking Module provides interactive API documentation using Swagger.
 
 ### Access Swagger UI
-- http://localhost:8080/swagger-ui/index.html
+- http://localhost:8084/swagger-ui/index.html
 
